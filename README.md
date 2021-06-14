@@ -1,1 +1,1 @@
-# Task6-DecisionTreeClassifier
+# Task6_DecisionTreeClassifier
